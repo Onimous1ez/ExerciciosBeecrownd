@@ -1,0 +1,15 @@
+E:\DevCS\URI1009\URI1009\bin\Debug\net6.0\URI1009.exe
+E:\DevCS\URI1009\URI1009\bin\Debug\net6.0\URI1009.deps.json
+E:\DevCS\URI1009\URI1009\bin\Debug\net6.0\URI1009.runtimeconfig.json
+E:\DevCS\URI1009\URI1009\bin\Debug\net6.0\URI1009.dll
+E:\DevCS\URI1009\URI1009\bin\Debug\net6.0\URI1009.pdb
+E:\DevCS\URI1009\URI1009\obj\Debug\net6.0\URI1009.csproj.AssemblyReference.cache
+E:\DevCS\URI1009\URI1009\obj\Debug\net6.0\URI1009.GeneratedMSBuildEditorConfig.editorconfig
+E:\DevCS\URI1009\URI1009\obj\Debug\net6.0\URI1009.AssemblyInfoInputs.cache
+E:\DevCS\URI1009\URI1009\obj\Debug\net6.0\URI1009.AssemblyInfo.cs
+E:\DevCS\URI1009\URI1009\obj\Debug\net6.0\URI1009.csproj.CoreCompileInputs.cache
+E:\DevCS\URI1009\URI1009\obj\Debug\net6.0\URI1009.dll
+E:\DevCS\URI1009\URI1009\obj\Debug\net6.0\refint\URI1009.dll
+E:\DevCS\URI1009\URI1009\obj\Debug\net6.0\URI1009.pdb
+E:\DevCS\URI1009\URI1009\obj\Debug\net6.0\URI1009.genruntimeconfig.cache
+E:\DevCS\URI1009\URI1009\obj\Debug\net6.0\ref\URI1009.dll

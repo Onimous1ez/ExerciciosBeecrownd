@@ -1,0 +1,14 @@
+E:\DevCS\FuncoesMat\FuncoesMat\bin\Debug\netcoreapp3.1\FuncoesMat.exe
+E:\DevCS\FuncoesMat\FuncoesMat\bin\Debug\netcoreapp3.1\FuncoesMat.deps.json
+E:\DevCS\FuncoesMat\FuncoesMat\bin\Debug\netcoreapp3.1\FuncoesMat.runtimeconfig.json
+E:\DevCS\FuncoesMat\FuncoesMat\bin\Debug\netcoreapp3.1\FuncoesMat.runtimeconfig.dev.json
+E:\DevCS\FuncoesMat\FuncoesMat\bin\Debug\netcoreapp3.1\FuncoesMat.dll
+E:\DevCS\FuncoesMat\FuncoesMat\bin\Debug\netcoreapp3.1\FuncoesMat.pdb
+E:\DevCS\FuncoesMat\FuncoesMat\obj\Debug\netcoreapp3.1\FuncoesMat.csproj.AssemblyReference.cache
+E:\DevCS\FuncoesMat\FuncoesMat\obj\Debug\netcoreapp3.1\FuncoesMat.GeneratedMSBuildEditorConfig.editorconfig
+E:\DevCS\FuncoesMat\FuncoesMat\obj\Debug\netcoreapp3.1\FuncoesMat.AssemblyInfoInputs.cache
+E:\DevCS\FuncoesMat\FuncoesMat\obj\Debug\netcoreapp3.1\FuncoesMat.AssemblyInfo.cs
+E:\DevCS\FuncoesMat\FuncoesMat\obj\Debug\netcoreapp3.1\FuncoesMat.csproj.CoreCompileInputs.cache
+E:\DevCS\FuncoesMat\FuncoesMat\obj\Debug\netcoreapp3.1\FuncoesMat.dll
+E:\DevCS\FuncoesMat\FuncoesMat\obj\Debug\netcoreapp3.1\FuncoesMat.pdb
+E:\DevCS\FuncoesMat\FuncoesMat\obj\Debug\netcoreapp3.1\FuncoesMat.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+E:\DevCS\URI1010\URI1010\bin\Debug\netcoreapp3.1\URI1010.exe
+E:\DevCS\URI1010\URI1010\bin\Debug\netcoreapp3.1\URI1010.deps.json
+E:\DevCS\URI1010\URI1010\bin\Debug\netcoreapp3.1\URI1010.runtimeconfig.json
+E:\DevCS\URI1010\URI1010\bin\Debug\netcoreapp3.1\URI1010.runtimeconfig.dev.json
+E:\DevCS\URI1010\URI1010\bin\Debug\netcoreapp3.1\URI1010.dll
+E:\DevCS\URI1010\URI1010\bin\Debug\netcoreapp3.1\URI1010.pdb
+E:\DevCS\URI1010\URI1010\obj\Debug\netcoreapp3.1\URI1010.GeneratedMSBuildEditorConfig.editorconfig
+E:\DevCS\URI1010\URI1010\obj\Debug\netcoreapp3.1\URI1010.AssemblyInfoInputs.cache
+E:\DevCS\URI1010\URI1010\obj\Debug\netcoreapp3.1\URI1010.AssemblyInfo.cs
+E:\DevCS\URI1010\URI1010\obj\Debug\netcoreapp3.1\URI1010.csproj.CoreCompileInputs.cache
+E:\DevCS\URI1010\URI1010\obj\Debug\netcoreapp3.1\URI1010.dll
+E:\DevCS\URI1010\URI1010\obj\Debug\netcoreapp3.1\URI1010.pdb
+E:\DevCS\URI1010\URI1010\obj\Debug\netcoreapp3.1\URI1010.genruntimeconfig.cache
+E:\DevCS\URI1010\URI1010\obj\Debug\netcoreapp3.1\URI1010.csproj.AssemblyReference.cache

@@ -1,0 +1,15 @@
+E:\DevCS\URI1061Certo\URI1061Certo\bin\Debug\net6.0\URI1061Certo.exe
+E:\DevCS\URI1061Certo\URI1061Certo\bin\Debug\net6.0\URI1061Certo.deps.json
+E:\DevCS\URI1061Certo\URI1061Certo\bin\Debug\net6.0\URI1061Certo.runtimeconfig.json
+E:\DevCS\URI1061Certo\URI1061Certo\bin\Debug\net6.0\URI1061Certo.dll
+E:\DevCS\URI1061Certo\URI1061Certo\bin\Debug\net6.0\URI1061Certo.pdb
+E:\DevCS\URI1061Certo\URI1061Certo\obj\Debug\net6.0\URI1061Certo.csproj.AssemblyReference.cache
+E:\DevCS\URI1061Certo\URI1061Certo\obj\Debug\net6.0\URI1061Certo.GeneratedMSBuildEditorConfig.editorconfig
+E:\DevCS\URI1061Certo\URI1061Certo\obj\Debug\net6.0\URI1061Certo.AssemblyInfoInputs.cache
+E:\DevCS\URI1061Certo\URI1061Certo\obj\Debug\net6.0\URI1061Certo.AssemblyInfo.cs
+E:\DevCS\URI1061Certo\URI1061Certo\obj\Debug\net6.0\URI1061Certo.csproj.CoreCompileInputs.cache
+E:\DevCS\URI1061Certo\URI1061Certo\obj\Debug\net6.0\URI1061Certo.dll
+E:\DevCS\URI1061Certo\URI1061Certo\obj\Debug\net6.0\refint\URI1061Certo.dll
+E:\DevCS\URI1061Certo\URI1061Certo\obj\Debug\net6.0\URI1061Certo.pdb
+E:\DevCS\URI1061Certo\URI1061Certo\obj\Debug\net6.0\URI1061Certo.genruntimeconfig.cache
+E:\DevCS\URI1061Certo\URI1061Certo\obj\Debug\net6.0\ref\URI1061Certo.dll

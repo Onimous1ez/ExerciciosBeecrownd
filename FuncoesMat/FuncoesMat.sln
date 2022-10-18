@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32802.440
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FuncoesMat", "FuncoesMat\FuncoesMat.csproj", "{E21DBABC-A09C-4395-B280-E391E49B7746}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E21DBABC-A09C-4395-B280-E391E49B7746}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E21DBABC-A09C-4395-B280-E391E49B7746}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E21DBABC-A09C-4395-B280-E391E49B7746}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E21DBABC-A09C-4395-B280-E391E49B7746}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E5124EEB-4148-45DA-AA10-B76166AB8E80}
+	EndGlobalSection
+EndGlobal

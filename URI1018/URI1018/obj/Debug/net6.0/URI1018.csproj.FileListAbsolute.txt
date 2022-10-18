@@ -1,0 +1,15 @@
+E:\DevCS\URI1018\URI1018\bin\Debug\net6.0\URI1018.exe
+E:\DevCS\URI1018\URI1018\bin\Debug\net6.0\URI1018.deps.json
+E:\DevCS\URI1018\URI1018\bin\Debug\net6.0\URI1018.runtimeconfig.json
+E:\DevCS\URI1018\URI1018\bin\Debug\net6.0\URI1018.dll
+E:\DevCS\URI1018\URI1018\bin\Debug\net6.0\URI1018.pdb
+E:\DevCS\URI1018\URI1018\obj\Debug\net6.0\URI1018.csproj.AssemblyReference.cache
+E:\DevCS\URI1018\URI1018\obj\Debug\net6.0\URI1018.GeneratedMSBuildEditorConfig.editorconfig
+E:\DevCS\URI1018\URI1018\obj\Debug\net6.0\URI1018.AssemblyInfoInputs.cache
+E:\DevCS\URI1018\URI1018\obj\Debug\net6.0\URI1018.AssemblyInfo.cs
+E:\DevCS\URI1018\URI1018\obj\Debug\net6.0\URI1018.csproj.CoreCompileInputs.cache
+E:\DevCS\URI1018\URI1018\obj\Debug\net6.0\URI1018.dll
+E:\DevCS\URI1018\URI1018\obj\Debug\net6.0\refint\URI1018.dll
+E:\DevCS\URI1018\URI1018\obj\Debug\net6.0\URI1018.pdb
+E:\DevCS\URI1018\URI1018\obj\Debug\net6.0\URI1018.genruntimeconfig.cache
+E:\DevCS\URI1018\URI1018\obj\Debug\net6.0\ref\URI1018.dll

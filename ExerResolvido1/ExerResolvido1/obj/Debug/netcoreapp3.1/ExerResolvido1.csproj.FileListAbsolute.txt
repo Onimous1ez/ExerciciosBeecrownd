@@ -1,0 +1,14 @@
+E:\DevCS\ExerResolvido1\ExerResolvido1\bin\Debug\netcoreapp3.1\ExerResolvido1.exe
+E:\DevCS\ExerResolvido1\ExerResolvido1\bin\Debug\netcoreapp3.1\ExerResolvido1.deps.json
+E:\DevCS\ExerResolvido1\ExerResolvido1\bin\Debug\netcoreapp3.1\ExerResolvido1.runtimeconfig.json
+E:\DevCS\ExerResolvido1\ExerResolvido1\bin\Debug\netcoreapp3.1\ExerResolvido1.runtimeconfig.dev.json
+E:\DevCS\ExerResolvido1\ExerResolvido1\bin\Debug\netcoreapp3.1\ExerResolvido1.dll
+E:\DevCS\ExerResolvido1\ExerResolvido1\bin\Debug\netcoreapp3.1\ExerResolvido1.pdb
+E:\DevCS\ExerResolvido1\ExerResolvido1\obj\Debug\netcoreapp3.1\ExerResolvido1.csproj.AssemblyReference.cache
+E:\DevCS\ExerResolvido1\ExerResolvido1\obj\Debug\netcoreapp3.1\ExerResolvido1.GeneratedMSBuildEditorConfig.editorconfig
+E:\DevCS\ExerResolvido1\ExerResolvido1\obj\Debug\netcoreapp3.1\ExerResolvido1.AssemblyInfoInputs.cache
+E:\DevCS\ExerResolvido1\ExerResolvido1\obj\Debug\netcoreapp3.1\ExerResolvido1.AssemblyInfo.cs
+E:\DevCS\ExerResolvido1\ExerResolvido1\obj\Debug\netcoreapp3.1\ExerResolvido1.csproj.CoreCompileInputs.cache
+E:\DevCS\ExerResolvido1\ExerResolvido1\obj\Debug\netcoreapp3.1\ExerResolvido1.dll
+E:\DevCS\ExerResolvido1\ExerResolvido1\obj\Debug\netcoreapp3.1\ExerResolvido1.pdb
+E:\DevCS\ExerResolvido1\ExerResolvido1\obj\Debug\netcoreapp3.1\ExerResolvido1.genruntimeconfig.cache

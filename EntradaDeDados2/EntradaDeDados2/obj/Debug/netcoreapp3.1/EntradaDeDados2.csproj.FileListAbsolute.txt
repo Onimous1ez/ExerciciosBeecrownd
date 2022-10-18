@@ -1,0 +1,14 @@
+E:\DevCS\EntradaDeDados2\EntradaDeDados2\bin\Debug\netcoreapp3.1\EntradaDeDados2.exe
+E:\DevCS\EntradaDeDados2\EntradaDeDados2\bin\Debug\netcoreapp3.1\EntradaDeDados2.deps.json
+E:\DevCS\EntradaDeDados2\EntradaDeDados2\bin\Debug\netcoreapp3.1\EntradaDeDados2.runtimeconfig.json
+E:\DevCS\EntradaDeDados2\EntradaDeDados2\bin\Debug\netcoreapp3.1\EntradaDeDados2.runtimeconfig.dev.json
+E:\DevCS\EntradaDeDados2\EntradaDeDados2\bin\Debug\netcoreapp3.1\EntradaDeDados2.dll
+E:\DevCS\EntradaDeDados2\EntradaDeDados2\bin\Debug\netcoreapp3.1\EntradaDeDados2.pdb
+E:\DevCS\EntradaDeDados2\EntradaDeDados2\obj\Debug\netcoreapp3.1\EntradaDeDados2.csproj.AssemblyReference.cache
+E:\DevCS\EntradaDeDados2\EntradaDeDados2\obj\Debug\netcoreapp3.1\EntradaDeDados2.GeneratedMSBuildEditorConfig.editorconfig
+E:\DevCS\EntradaDeDados2\EntradaDeDados2\obj\Debug\netcoreapp3.1\EntradaDeDados2.AssemblyInfoInputs.cache
+E:\DevCS\EntradaDeDados2\EntradaDeDados2\obj\Debug\netcoreapp3.1\EntradaDeDados2.AssemblyInfo.cs
+E:\DevCS\EntradaDeDados2\EntradaDeDados2\obj\Debug\netcoreapp3.1\EntradaDeDados2.csproj.CoreCompileInputs.cache
+E:\DevCS\EntradaDeDados2\EntradaDeDados2\obj\Debug\netcoreapp3.1\EntradaDeDados2.dll
+E:\DevCS\EntradaDeDados2\EntradaDeDados2\obj\Debug\netcoreapp3.1\EntradaDeDados2.pdb
+E:\DevCS\EntradaDeDados2\EntradaDeDados2\obj\Debug\netcoreapp3.1\EntradaDeDados2.genruntimeconfig.cache
