@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\DevCS\\URI1061Certo\\URI1061Certo\\URI1061Certo.csproj": {}
+    "E:\\DevCS\\RepositorioGit\\URI1061Certo\\URI1061Certo\\URI1061Certo.csproj": {}
   },
   "projects": {
-    "E:\\DevCS\\URI1061Certo\\URI1061Certo\\URI1061Certo.csproj": {
+    "E:\\DevCS\\RepositorioGit\\URI1061Certo\\URI1061Certo\\URI1061Certo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\DevCS\\URI1061Certo\\URI1061Certo\\URI1061Certo.csproj",
+        "projectUniqueName": "E:\\DevCS\\RepositorioGit\\URI1061Certo\\URI1061Certo\\URI1061Certo.csproj",
         "projectName": "URI1061Certo",
-        "projectPath": "E:\\DevCS\\URI1061Certo\\URI1061Certo\\URI1061Certo.csproj",
+        "projectPath": "E:\\DevCS\\RepositorioGit\\URI1061Certo\\URI1061Certo\\URI1061Certo.csproj",
         "packagesPath": "C:\\Users\\onimous\\.nuget\\packages\\",
-        "outputPath": "E:\\DevCS\\URI1061Certo\\URI1061Certo\\obj\\",
+        "outputPath": "E:\\DevCS\\RepositorioGit\\URI1061Certo\\URI1061Certo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
